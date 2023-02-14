@@ -8,17 +8,14 @@
  * This file contains additional configuration options that customize the
  * JPEG software for special applications or support machine-dependent
  * optimizations.  Most users will not need to touch this file.
- */
-
-/*
+ *
+ *
  * This file has been modified for the Mozilla/Netscape environment.
  * Modifications are distributed under the Netscape Public License and are
  * Copyright (C) 1998 Netscape Communications Corporation.  All Rights
  * Reserved.
- */
-
-
-/*
+ *
+ *
  * Define BITS_IN_JSAMPLE as either
  *   8   for 8-bit sample values (the usual setting)
  *   12  for 12-bit sample values

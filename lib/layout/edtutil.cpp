@@ -17,9 +17,8 @@
  */
 
 
-//
 // Public interface and shared subsystem data.
-//
+
 
 #ifdef EDITOR
 

@@ -17,9 +17,9 @@
  */
 
 
-//
+
 // Editor save stuff. LWT 06/01/95
-//
+
 // Added all ITapeFileSystem stuff, hardts 10/96
 
 #ifdef EDITOR

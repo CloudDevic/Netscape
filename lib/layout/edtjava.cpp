@@ -17,9 +17,8 @@
  */
 
 
-//
+
 // Java-related editor code.
-//
 
 #ifdef EDITOR
 

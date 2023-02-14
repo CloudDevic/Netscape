@@ -5,15 +5,14 @@
  * This file is part of the Independent JPEG Group's software.
  * For conditions of distribution and use, see the accompanying README file.
  *
+ *
  * This include file contains common declarations for the forward and
  * inverse DCT modules.  These declarations are private to the DCT managers
  * (jcdctmgr.c, jddctmgr.c) and the individual DCT algorithms.
  * The individual DCT algorithms are kept in separate files to ease 
  * machine-dependent tuning (e.g., assembly coding).
- */
-
-
-/*
+ *
+ *
  * A forward DCT routine is given a pointer to a work area of type DCTELEM[];
  * the DCT is to be performed in-place in that buffer.  Type DCTELEM is int
  * for 8-bit samples, INT32 for 12-bit samples.  (NOTE: Floating-point DCT

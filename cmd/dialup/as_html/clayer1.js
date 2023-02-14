@@ -15,7 +15,7 @@
  * Copyright (C) 1998 Netscape Communications Corporation.  All Rights
  * Reserved.
  */
-<!--  to hide script contents from old browsers
+// to hide script contents from old browsers -->
 
 
 

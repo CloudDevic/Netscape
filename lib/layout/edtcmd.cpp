@@ -17,11 +17,10 @@
  */
 
 
-//
-//
+
 // Editor save stuff. LWT 06/01/95
 // this should be on the branch
-//
+
 
 #ifdef EDITOR
 
